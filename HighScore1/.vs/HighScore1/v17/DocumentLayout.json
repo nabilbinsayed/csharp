@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nabil\\OneDrive\\Desktop\\C-Sharp\\csharp\\HighScore1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BBCDC9-E550-4CD1-A598-E961F287CC9C}|HighScore1\\HighScore1.csproj|c:\\users\\nabil\\onedrive\\desktop\\c-sharp\\csharp\\highscore1\\highscore1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BBCDC9-E550-4CD1-A598-E961F287CC9C}|HighScore1\\HighScore1.csproj|solutionrelative:highscore1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nabil\\OneDrive\\Desktop\\C-Sharp\\csharp\\HighScore1\\HighScore1\\Program.cs",
+              "RelativeDocumentMoniker": "HighScore1\\Program.cs",
+              "ToolTip": "C:\\Users\\nabil\\OneDrive\\Desktop\\C-Sharp\\csharp\\HighScore1\\HighScore1\\Program.cs",
+              "RelativeToolTip": "HighScore1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:12:39.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

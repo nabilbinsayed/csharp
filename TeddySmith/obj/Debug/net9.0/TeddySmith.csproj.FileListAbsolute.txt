@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\bin\Debug\net9.0\TeddySmith.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\bin\Debug\net9.0\TeddySmith.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\bin\Debug\net9.0\TeddySmith.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\bin\Debug\net9.0\TeddySmith.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\bin\Debug\net9.0\TeddySmith.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\refint\TeddySmith.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\TeddySmith.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TeddySmith\obj\Debug\net9.0\ref\TeddySmith.dll

@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\bin\Debug\net9.0\shapeshapeshape.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\bin\Debug\net9.0\shapeshapeshape.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\bin\Debug\net9.0\shapeshapeshape.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\bin\Debug\net9.0\shapeshapeshape.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\bin\Debug\net9.0\shapeshapeshape.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\refint\shapeshapeshape.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\shapeshapeshape.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\shapeshapeshape\obj\Debug\net9.0\ref\shapeshapeshape.dll

@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\bin\Debug\net9.0\MemberFinalizerDestructor.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\bin\Debug\net9.0\MemberFinalizerDestructor.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\bin\Debug\net9.0\MemberFinalizerDestructor.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\bin\Debug\net9.0\MemberFinalizerDestructor.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\bin\Debug\net9.0\MemberFinalizerDestructor.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\refint\MemberFinalizerDestructor.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\MemberFinalizerDestructor.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MemberFinalizerDestructor\MemberFinalizerDestructor\obj\Debug\net9.0\ref\MemberFinalizerDestructor.dll

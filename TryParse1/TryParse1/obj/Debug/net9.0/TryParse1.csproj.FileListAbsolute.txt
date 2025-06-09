@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\bin\Debug\net9.0\TryParse1.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\bin\Debug\net9.0\TryParse1.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\bin\Debug\net9.0\TryParse1.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\bin\Debug\net9.0\TryParse1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\bin\Debug\net9.0\TryParse1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\refint\TryParse1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\TryParse1.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TryParse1\TryParse1\obj\Debug\net9.0\ref\TryParse1.dll

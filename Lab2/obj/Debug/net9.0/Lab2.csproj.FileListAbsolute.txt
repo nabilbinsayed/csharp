@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\bin\Debug\net9.0\Lab2.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\bin\Debug\net9.0\Lab2.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\bin\Debug\net9.0\Lab2.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\bin\Debug\net9.0\Lab2.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\bin\Debug\net9.0\Lab2.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\refint\Lab2.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Lab2\obj\Debug\net9.0\ref\Lab2.dll

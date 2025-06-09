@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\bin\Debug\net9.0\ShapeHouse.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\bin\Debug\net9.0\ShapeHouse.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\bin\Debug\net9.0\ShapeHouse.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\bin\Debug\net9.0\ShapeHouse.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\bin\Debug\net9.0\ShapeHouse.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\refint\ShapeHouse.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ShapeHouse.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ShapeHouse\obj\Debug\net9.0\ref\ShapeHouse.dll

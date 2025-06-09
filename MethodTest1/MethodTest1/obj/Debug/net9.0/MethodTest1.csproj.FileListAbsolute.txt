@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\bin\Debug\net9.0\MethodTest1.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\bin\Debug\net9.0\MethodTest1.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\bin\Debug\net9.0\MethodTest1.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\bin\Debug\net9.0\MethodTest1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\bin\Debug\net9.0\MethodTest1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\refint\MethodTest1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\MethodTest1.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MethodTest1\MethodTest1\obj\Debug\net9.0\ref\MethodTest1.dll

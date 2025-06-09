@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\bin\Debug\net9.0\HomeTaskSix.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\bin\Debug\net9.0\HomeTaskSix.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\bin\Debug\net9.0\HomeTaskSix.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\bin\Debug\net9.0\HomeTaskSix.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\bin\Debug\net9.0\HomeTaskSix.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\refint\HomeTaskSix.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\HomeTaskSix.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HomeTaskSix\HomeTaskSix\obj\Debug\net9.0\ref\HomeTaskSix.dll

@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\bin\Debug\net9.0\ArrayInit.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\bin\Debug\net9.0\ArrayInit.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\bin\Debug\net9.0\ArrayInit.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\bin\Debug\net9.0\ArrayInit.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\bin\Debug\net9.0\ArrayInit.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\refint\ArrayInit.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ArrayInit.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\ArrayInit\ArrayInit\obj\Debug\net9.0\ref\ArrayInit.dll

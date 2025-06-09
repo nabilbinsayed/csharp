@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\bin\Debug\net9.0\WareHouse.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\bin\Debug\net9.0\WareHouse.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\bin\Debug\net9.0\WareHouse.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\bin\Debug\net9.0\WareHouse.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\bin\Debug\net9.0\WareHouse.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\refint\WareHouse.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\WareHouse.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\WareHouse\WareHouse\obj\Debug\net9.0\ref\WareHouse.dll

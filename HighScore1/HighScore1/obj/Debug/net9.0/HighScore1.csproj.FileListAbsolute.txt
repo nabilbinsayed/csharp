@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\bin\Debug\net9.0\HighScore1.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\bin\Debug\net9.0\HighScore1.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\bin\Debug\net9.0\HighScore1.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\bin\Debug\net9.0\HighScore1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\bin\Debug\net9.0\HighScore1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\refint\HighScore1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\HighScore1.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\HighScore1\HighScore1\obj\Debug\net9.0\ref\HighScore1.dll

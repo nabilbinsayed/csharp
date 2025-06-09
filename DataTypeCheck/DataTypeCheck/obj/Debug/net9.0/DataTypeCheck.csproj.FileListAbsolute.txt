@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\bin\Debug\net9.0\DataTypeCheck.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\bin\Debug\net9.0\DataTypeCheck.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\bin\Debug\net9.0\DataTypeCheck.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\bin\Debug\net9.0\DataTypeCheck.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\bin\Debug\net9.0\DataTypeCheck.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\refint\DataTypeCheck.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\DataTypeCheck.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\DataTypeCheck\DataTypeCheck\obj\Debug\net9.0\ref\DataTypeCheck.dll

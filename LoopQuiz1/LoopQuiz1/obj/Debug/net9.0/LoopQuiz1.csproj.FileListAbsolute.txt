@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\bin\Debug\net9.0\LoopQuiz1.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\bin\Debug\net9.0\LoopQuiz1.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\bin\Debug\net9.0\LoopQuiz1.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\bin\Debug\net9.0\LoopQuiz1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\bin\Debug\net9.0\LoopQuiz1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\refint\LoopQuiz1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\LoopQuiz1.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LoopQuiz1\LoopQuiz1\obj\Debug\net9.0\ref\LoopQuiz1.dll

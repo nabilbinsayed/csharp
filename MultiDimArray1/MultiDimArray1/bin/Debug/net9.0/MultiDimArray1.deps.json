@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MultiDimArray1/1.0.0": {
+        "runtime": {
+          "MultiDimArray1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiDimArray1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

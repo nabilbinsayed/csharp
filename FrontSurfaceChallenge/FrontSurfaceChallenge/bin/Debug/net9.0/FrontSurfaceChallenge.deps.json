@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FrontSurfaceChallenge/1.0.0": {
+        "runtime": {
+          "FrontSurfaceChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrontSurfaceChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

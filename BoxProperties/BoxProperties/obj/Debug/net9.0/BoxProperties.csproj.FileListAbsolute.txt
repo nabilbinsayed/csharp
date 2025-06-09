@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\bin\Debug\net9.0\BoxProperties.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\bin\Debug\net9.0\BoxProperties.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\bin\Debug\net9.0\BoxProperties.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\bin\Debug\net9.0\BoxProperties.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\bin\Debug\net9.0\BoxProperties.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\refint\BoxProperties.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\BoxProperties.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\BoxProperties\BoxProperties\obj\Debug\net9.0\ref\BoxProperties.dll

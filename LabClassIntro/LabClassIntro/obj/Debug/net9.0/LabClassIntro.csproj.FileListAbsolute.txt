@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\bin\Debug\net9.0\LabClassIntro.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\bin\Debug\net9.0\LabClassIntro.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\bin\Debug\net9.0\LabClassIntro.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\bin\Debug\net9.0\LabClassIntro.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\bin\Debug\net9.0\LabClassIntro.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\refint\LabClassIntro.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\LabClassIntro.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\LabClassIntro\LabClassIntro\obj\Debug\net9.0\ref\LabClassIntro.dll

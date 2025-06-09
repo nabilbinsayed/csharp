@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\bin\Debug\net9.0\fahad.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\bin\Debug\net9.0\fahad.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\bin\Debug\net9.0\fahad.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\bin\Debug\net9.0\fahad.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\bin\Debug\net9.0\fahad.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\refint\fahad.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\fahad.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\fahad\fahad\obj\Debug\net9.0\ref\fahad.dll

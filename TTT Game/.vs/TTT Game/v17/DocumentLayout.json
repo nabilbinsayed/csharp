@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nabil\\OneDrive\\Desktop\\C-Sharp\\csharp\\TTT Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AE5DF7-6DAD-4A89-9C07-63714C6AEA00}|TTT Game\\TTT Game.csproj|c:\\users\\nabil\\onedrive\\desktop\\c-sharp\\csharp\\ttt game\\ttt game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AE5DF7-6DAD-4A89-9C07-63714C6AEA00}|TTT Game\\TTT Game.csproj|solutionrelative:ttt game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nabil\\OneDrive\\Desktop\\C-Sharp\\csharp\\TTT Game\\TTT Game\\Program.cs",
+              "RelativeDocumentMoniker": "TTT Game\\Program.cs",
+              "ToolTip": "C:\\Users\\nabil\\OneDrive\\Desktop\\C-Sharp\\csharp\\TTT Game\\TTT Game\\Program.cs",
+              "RelativeToolTip": "TTT Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:32:30.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\bin\Debug\net9.0\Constructor1.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\bin\Debug\net9.0\Constructor1.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\bin\Debug\net9.0\Constructor1.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\bin\Debug\net9.0\Constructor1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\bin\Debug\net9.0\Constructor1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\refint\Constructor1.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\Constructor1.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\Constructor1\Constructor1\obj\Debug\net9.0\ref\Constructor1.dll

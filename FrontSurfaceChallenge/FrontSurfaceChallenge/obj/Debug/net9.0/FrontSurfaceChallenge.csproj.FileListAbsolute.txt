@@ -1,0 +1,15 @@
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\bin\Debug\net9.0\FrontSurfaceChallenge.exe
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\bin\Debug\net9.0\FrontSurfaceChallenge.deps.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\bin\Debug\net9.0\FrontSurfaceChallenge.runtimeconfig.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\bin\Debug\net9.0\FrontSurfaceChallenge.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\bin\Debug\net9.0\FrontSurfaceChallenge.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.AssemblyInfoInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.AssemblyInfo.cs
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.sourcelink.json
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\refint\FrontSurfaceChallenge.dll
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.pdb
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\FrontSurfaceChallenge.genruntimeconfig.cache
+C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\FrontSurfaceChallenge\FrontSurfaceChallenge\obj\Debug\net9.0\ref\FrontSurfaceChallenge.dll
