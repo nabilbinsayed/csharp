@@ -13,3 +13,18 @@ C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.
 C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.pdb
 C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.genruntimeconfig.cache
 C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\ref\TTT Game.dll
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\bin\Debug\net9.0\TTT Game.exe
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\bin\Debug\net9.0\TTT Game.deps.json
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\bin\Debug\net9.0\TTT Game.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\bin\Debug\net9.0\TTT Game.dll
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\bin\Debug\net9.0\TTT Game.pdb
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.dll
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\refint\TTT Game.dll
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.pdb
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\TTT Game.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\TTT Game\TTT Game\obj\Debug\net9.0\ref\TTT Game.dll
