@@ -8,7 +8,6 @@
             { "4", "5", "6" },
             { "7", "8", "9" }
         };
-
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the game!");
@@ -66,6 +65,11 @@
         {
             ResultPrint(ProgressCheck());
 
+            if (ResultPrint(ProgressCheck()) == 1)
+            {
+                return;
+            }
+
             System.Console.Write("Player 1, Choose a field: ");
             string input = Console.ReadLine();
             int inputNum;
@@ -87,6 +91,10 @@
         public static void Player2Choice()
         {
             ResultPrint(ProgressCheck());
+            if (ResultPrint(ProgressCheck()) == 1)
+            {
+                return;
+            }
 
             System.Console.Write("Player 2, Choose a field: ");
             string input = Console.ReadLine();
@@ -110,44 +118,45 @@
 
         public static void inputMatch(string input, int playerNo)
         {
+            bool matchFound = false;
+
             for (int i = 0; i < field.GetLength(0); i++)
             {
                 for (int j = 0; j < field.GetLength(1); j++)
                 {
                     if (input == field[i, j])
                     {
-                        if ((field[i, j] == "X" || field[i, j] == "O") && playerNo == 1)
+                        if (playerNo == 1)
                         {
-                            System.Console.WriteLine("Invalid input. Try again.");
-                            Player1Choice();
+                            field[i, j] = "X";
+                            matchFound = true;
                             break;
+
                         }
-                        else if ((field[i, j] == "X" || field[i, j] == "O") && playerNo == 2)
+                        else if (playerNo == 2)
                         {
-                            System.Console.WriteLine("Invalid input. Try again.");
-                            Player2Choice();
+                            field[i, j] = "O";
+                            matchFound = true;
                             break;
-                        }
-
-                        else
-                        {
-                            if (playerNo == 1)
-                            {
-                                field[i, j] = "X";
-                                return;
-
-                            }
-                            else if (playerNo == 2)
-                            {
-                                field[i, j] = "O";
-                                return;
-
-
-                            }
                         }
                     }
                 }
             }
+            if (!matchFound)
+            {
+                if (playerNo == 1)
+                {
+                    System.Console.WriteLine("Invalid input. Try again.");
+                    Player1Choice();
+                }
+                else if (playerNo == 2)
+                {
+                    System.Console.WriteLine("Invalid input. Try again.");
+                    Player2Choice();
+                }
+            }
+
+
         }
 
         public static int ProgressCheck()
@@ -155,6 +164,8 @@
             int trashNum;
             bool numFound = false;
             bool matched = false;
+
+            // checking for crosses matched, initiated
 
             if (field[0, 0] == "X" && field[1, 1] == "X" && field[2, 2] == "X")
             {
@@ -165,7 +176,7 @@
                 return 1;
             }
 
-            if (field[0, 0] == "O" && field[1, 1] == "O" && field[2, 2] == "O")
+            else if (field[0, 0] == "O" && field[1, 1] == "O" && field[2, 2] == "O")
             {
                 return 2;
             }
@@ -174,114 +185,125 @@
                 return 2;
             }
 
+            // checking for crosses matched, done
 
+            // Now checking for rows or columns matched
 
-            for (int i = 0; i < field.GetLength(0); i++)
-            {
-                for (int j = 0; j < field.GetLength(1); j++)
-                {
-                    matched = true;
-                    numFound = int.TryParse(field[i, j], out trashNum);
-                    if (field[i, j] != "X")
-                    {
-                        matched = false;
-                    }
-                }
-                if (matched)
-                {
-                    return 1;
-                }
-            }
-
-            for (int i = 0; i < field.GetLength(1); i++)
-            {
-                for (int j = 0; j < field.GetLength(0); j++)
-                {
-                    matched = true;
-                    if (field[i, j] != "X")
-                    {
-                        matched = false;
-                    }
-                }
-                if (matched)
-                {
-                    return 1;
-                }
-            }
-
-
-
-            for (int i = 0; i < field.GetLength(0); i++)
-            {
-                for (int j = 0; j < field.GetLength(1); j++)
-                {
-                    matched = true;
-                    if (field[i, j] != "O")
-                    {
-                        matched = false;
-                    }
-                }
-                if (matched)
-                {
-                    return 2;
-                }
-            }
-
-            for (int i = 0; i < field.GetLength(1); i++)
-            {
-                for (int j = 0; j < field.GetLength(0); j++)
-                {
-                    matched = true;
-                    if (field[i, j] != "O")
-                    {
-                        matched = false;
-                    }
-                }
-                if (matched)
-                {
-                    return 2;
-                }
-            }
-
-            if (!numFound)
-            {
-                return 3;
-            }
 
             else
             {
-                return 0;
+                for (int i = 0; i < field.GetLength(0); i++)
+                {
+                    for (int j = 0; j < field.GetLength(1); j++)
+                    {
+                        matched = true;
+                        numFound = int.TryParse(field[i, j], out trashNum);
+                        if (field[i, j] != "X")
+                        {
+                            matched = false;
+                            break;
+                        }
+                    }
+                    if (matched)
+                    {
+                        return 1;
+                    }
+                }
+
+                for (int i = 0; i < field.GetLength(1); i++)
+                {
+                    for (int j = 0; j < field.GetLength(0); j++)
+                    {
+                        matched = true;
+                        if (field[j, i] != "X")
+                        {
+                            matched = false;
+                            break;
+                        }
+                    }
+                    if (matched)
+                    {
+                        return 1;
+                    }
+                }
+
+
+
+                for (int i = 0; i < field.GetLength(0); i++)
+                {
+                    for (int j = 0; j < field.GetLength(1); j++)
+                    {
+                        matched = true;
+                        if (field[i, j] != "O")
+                        {
+                            matched = false;
+                            break;
+                        }
+                    }
+                    if (matched)
+                    {
+                        return 2;
+                    }
+                }
+
+                for (int i = 0; i < field.GetLength(1); i++)
+                {
+                    for (int j = 0; j < field.GetLength(0); j++)
+                    {
+                        matched = true;
+                        if (field[j, i] != "O")
+                        {
+                            matched = false;
+                            break;
+                        }
+                    }
+                    if (matched)
+                    {
+                        return 2;
+                    }
+                }
+
+                if (!numFound)
+                {
+                    return 3;
+                }
+
+                else
+                {
+                    return 0;
+                }
             }
+
+
 
 
         }
 
-        public static void ResultPrint(int result)
+        public static int ResultPrint(int result)
         {
             if (result == 0)
             {
-                return;
+                return 0;
             }
             else if (result == 1)
             {
                 System.Console.WriteLine("Player 1 is Winner!");
-                return;
+                return 1;
             }
             else if (result == 2)
             {
                 System.Console.WriteLine("Player 2 is Winner!");
-                return;
+                return 1;
             }
             else if (result == 3)
             {
                 System.Console.WriteLine("Game Drawn!");
-                return;
+                return 1;
+            }
+            else
+            {
+                return 0;
             }
         }
-
-
-
-
-
     }
 }
