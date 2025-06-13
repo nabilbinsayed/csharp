@@ -1,4 +1,5 @@
-﻿namespace TTT
+﻿using System; 
+namespace TTT
 {
     public class Program
     {
@@ -63,7 +64,7 @@
 
         public static void Player1Choice()
         {
-            ResultPrint(ProgressCheck());
+            // ResultPrint(ProgressCheck());
 
             if (ResultPrint(ProgressCheck()) == 1)
             {
@@ -90,7 +91,7 @@
         }
         public static void Player2Choice()
         {
-            ResultPrint(ProgressCheck());
+            // ResultPrint(ProgressCheck());
             if (ResultPrint(ProgressCheck()) == 1)
             {
                 return;
@@ -161,11 +162,19 @@
 
         public static int ProgressCheck()
         {
+            // returning 1, 2, 3 for: player 1 winning, player 2 winning, and for a draw
+            // returning 0 for program to keep on going
+
             int trashNum;
             bool numFound = false;
             bool matched = false;
 
-            // checking for crosses matched, initiated
+            // XXXX(WRONG!!!!!) need to check if the game is drawn already first XXXX
+            // The game can be won even at the last shot, where the whole board is filled out and the given code says it is draw. So it must be checked at the end
+
+
+
+            // Now checking for crosses matched, initiated
 
             if (field[0, 0] == "X" && field[1, 1] == "X" && field[2, 2] == "X")
             {
@@ -187,7 +196,7 @@
 
             // checking for crosses matched, done
 
-            // Now checking for rows or columns matched
+            // Now checking for rows or columns matched, first for "X"
 
 
             else
@@ -197,8 +206,7 @@
                     for (int j = 0; j < field.GetLength(1); j++)
                     {
                         matched = true;
-                        numFound = int.TryParse(field[i, j], out trashNum);
-                        if (field[i, j] != "X")
+                        if (field[i, j] != "X") // checking for rows
                         {
                             matched = false;
                             break;
@@ -206,7 +214,7 @@
                     }
                     if (matched)
                     {
-                        return 1;
+                        return 1; // if any single one hadn't matched, it would've came out as false
                     }
                 }
 
@@ -215,7 +223,7 @@
                     for (int j = 0; j < field.GetLength(0); j++)
                     {
                         matched = true;
-                        if (field[j, i] != "X")
+                        if (field[j, i] != "X") // checking for columns
                         {
                             matched = false;
                             break;
@@ -227,7 +235,7 @@
                     }
                 }
 
-
+                //  same thing for "0": 
 
                 for (int i = 0; i < field.GetLength(0); i++)
                 {
@@ -263,15 +271,25 @@
                     }
                 }
 
+                // checking if the board is already filled out, and thus: drawn
+
+                for (int i = 0; i < field.GetLength(0); i++)
+                {
+                    for (int j = 0; j < field.GetLength(1); j++)
+                    {
+                        numFound = int.TryParse(field[i, j], out trashNum);
+                        if (numFound)
+                        {
+                            return 0;
+                        }
+                    }
+                }
                 if (!numFound)
                 {
                     return 3;
                 }
 
-                else
-                {
-                    return 0;
-                }
+                return 0;
             }
 
 
