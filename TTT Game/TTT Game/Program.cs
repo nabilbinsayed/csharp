@@ -1,8 +1,10 @@
-﻿using System; 
+﻿using System;
 namespace TTT
 {
     public class Program
     {
+
+        // a character field could've been more resource effecient
         static string[,] field = new string[,]
         {
             { "1", "2", "3" },
@@ -11,7 +13,7 @@ namespace TTT
         };
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the game!");
+            Console.WriteLine("Welcome to the game!\n");
             PrintBoard();
             Player1Choice();
 
@@ -65,11 +67,14 @@ namespace TTT
         public static void Player1Choice()
         {
             // ResultPrint(ProgressCheck());
+            // the above line is unnecessary and hence commented out
 
             if (ResultPrint(ProgressCheck()) == 1)
             {
                 return;
             }
+
+            // quite curiously, this function doesn't only return a value but also executes the WriteLine and whatnot functions inside it: even though it is wrapped in an if-else statement. So calling it twice wasn't necessary. 
 
             System.Console.Write("Player 1, Choose a field: ");
             string input = Console.ReadLine();
