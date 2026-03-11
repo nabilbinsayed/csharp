@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\bin\Debug\net9.0\HTaskPerp.exe
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\bin\Debug\net9.0\HTaskPerp.deps.json
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\bin\Debug\net9.0\HTaskPerp.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\bin\Debug\net9.0\HTaskPerp.dll
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\bin\Debug\net9.0\HTaskPerp.pdb
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.dll
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\refint\HTaskPerp.dll
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.pdb
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\HTaskPerp.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\HTaskPerp\obj\Debug\net9.0\ref\HTaskPerp.dll

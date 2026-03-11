@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\bin\Debug\net9.0\DelegateOwn1.exe
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\bin\Debug\net9.0\DelegateOwn1.deps.json
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\bin\Debug\net9.0\DelegateOwn1.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\bin\Debug\net9.0\DelegateOwn1.dll
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\bin\Debug\net9.0\DelegateOwn1.pdb
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.dll
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\refint\DelegateOwn1.dll
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.pdb
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\DelegateOwn1.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\DelegateOwn1\obj\Debug\net9.0\ref\DelegateOwn1.dll

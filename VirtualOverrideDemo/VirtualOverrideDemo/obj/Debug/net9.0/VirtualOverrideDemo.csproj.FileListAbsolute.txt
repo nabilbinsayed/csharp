@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net9.0\VirtualOverrideDemo.exe
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net9.0\VirtualOverrideDemo.deps.json
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net9.0\VirtualOverrideDemo.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net9.0\VirtualOverrideDemo.dll
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net9.0\VirtualOverrideDemo.pdb
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.dll
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\refint\VirtualOverrideDemo.dll
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.pdb
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\VirtualOverrideDemo.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net9.0\ref\VirtualOverrideDemo.dll

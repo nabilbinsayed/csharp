@@ -23,6 +23,20 @@
                 { 3, 4 }
             };
 
+            System.Console.WriteLine();
+
+            int[,] square = new int[2, 2] {
+                {1, 2},
+                {3, 4}
+            };
+
+            foreach (int x in square)
+            {
+                System.Console.Write($"{x} ");
+            }
+
+
+
         }
     }
 }

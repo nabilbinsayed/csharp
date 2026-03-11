@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lab25thJune/1.0.0": {
+        "runtime": {
+          "Lab25thJune.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab25thJune/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

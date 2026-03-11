@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\bin\Debug\net9.0\Revision001.exe
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\bin\Debug\net9.0\Revision001.deps.json
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\bin\Debug\net9.0\Revision001.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\bin\Debug\net9.0\Revision001.dll
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\bin\Debug\net9.0\Revision001.pdb
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.dll
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\refint\Revision001.dll
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.pdb
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\Revision001.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\Revision\Revision001\obj\Debug\net9.0\ref\Revision001.dll

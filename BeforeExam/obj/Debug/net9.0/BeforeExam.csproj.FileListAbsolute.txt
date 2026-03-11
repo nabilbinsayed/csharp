@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\BeforeExam\bin\Debug\net9.0\BeforeExam.exe
+D:\Own Programs\C-Sharp\csharp\BeforeExam\bin\Debug\net9.0\BeforeExam.deps.json
+D:\Own Programs\C-Sharp\csharp\BeforeExam\bin\Debug\net9.0\BeforeExam.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\BeforeExam\bin\Debug\net9.0\BeforeExam.dll
+D:\Own Programs\C-Sharp\csharp\BeforeExam\bin\Debug\net9.0\BeforeExam.pdb
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.dll
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\refint\BeforeExam.dll
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.pdb
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\BeforeExam.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\BeforeExam\obj\Debug\net9.0\ref\BeforeExam.dll

@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\bin\Debug\net9.0\InheritanceSocialMedia.exe
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\bin\Debug\net9.0\InheritanceSocialMedia.deps.json
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\bin\Debug\net9.0\InheritanceSocialMedia.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\bin\Debug\net9.0\InheritanceSocialMedia.dll
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\bin\Debug\net9.0\InheritanceSocialMedia.pdb
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.dll
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\refint\InheritanceSocialMedia.dll
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.pdb
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\InheritanceSocialMedia.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\InheritanceSocialMedia\obj\Debug\net9.0\ref\InheritanceSocialMedia.dll

@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\HW5V2\bin\Debug\net9.0\HW5V2.exe
+D:\Own Programs\C-Sharp\csharp\HW5V2\bin\Debug\net9.0\HW5V2.deps.json
+D:\Own Programs\C-Sharp\csharp\HW5V2\bin\Debug\net9.0\HW5V2.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\HW5V2\bin\Debug\net9.0\HW5V2.dll
+D:\Own Programs\C-Sharp\csharp\HW5V2\bin\Debug\net9.0\HW5V2.pdb
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.dll
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\refint\HW5V2.dll
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.pdb
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\HW5V2.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\HW5V2\obj\Debug\net9.0\ref\HW5V2.dll

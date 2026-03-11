@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\bin\Debug\net9.0\InterfaceProblem1stJuly.exe
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\bin\Debug\net9.0\InterfaceProblem1stJuly.deps.json
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\bin\Debug\net9.0\InterfaceProblem1stJuly.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\bin\Debug\net9.0\InterfaceProblem1stJuly.dll
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\bin\Debug\net9.0\InterfaceProblem1stJuly.pdb
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.dll
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\refint\InterfaceProblem1stJuly.dll
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.pdb
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\InterfaceProblem1stJuly.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\InterfaceProblem1stJuly\obj\Debug\net9.0\ref\InterfaceProblem1stJuly.dll

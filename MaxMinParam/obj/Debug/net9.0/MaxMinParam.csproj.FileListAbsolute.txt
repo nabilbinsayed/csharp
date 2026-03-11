@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\bin\Debug\net9.0\MaxMinParam.exe
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\bin\Debug\net9.0\MaxMinParam.deps.json
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\bin\Debug\net9.0\MaxMinParam.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\bin\Debug\net9.0\MaxMinParam.dll
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\bin\Debug\net9.0\MaxMinParam.pdb
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.dll
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\refint\MaxMinParam.dll
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.pdb
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\MaxMinParam.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\MaxMinParam\obj\Debug\net9.0\ref\MaxMinParam.dll

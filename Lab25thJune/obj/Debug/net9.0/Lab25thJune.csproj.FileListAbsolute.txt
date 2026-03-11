@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\bin\Debug\net9.0\Lab25thJune.exe
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\bin\Debug\net9.0\Lab25thJune.deps.json
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\bin\Debug\net9.0\Lab25thJune.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\bin\Debug\net9.0\Lab25thJune.dll
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\bin\Debug\net9.0\Lab25thJune.pdb
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.dll
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\refint\Lab25thJune.dll
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.pdb
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\Lab25thJune.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\Lab25thJune\obj\Debug\net9.0\ref\Lab25thJune.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TTT Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a0962b9a0eac717b6dd08114fe19aa4a99f9faf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a78690ea27611d87d89e11ea872bea5aa776ab7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TTT Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TTT Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

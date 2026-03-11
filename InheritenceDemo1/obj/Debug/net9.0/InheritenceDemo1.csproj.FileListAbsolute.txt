@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\bin\Debug\net9.0\InheritenceDemo1.exe
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\bin\Debug\net9.0\InheritenceDemo1.deps.json
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\bin\Debug\net9.0\InheritenceDemo1.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\bin\Debug\net9.0\InheritenceDemo1.dll
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\bin\Debug\net9.0\InheritenceDemo1.pdb
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.dll
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\refint\InheritenceDemo1.dll
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.pdb
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\InheritenceDemo1.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\InheritenceDemo1\obj\Debug\net9.0\ref\InheritenceDemo1.dll

@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\StringTest\bin\Debug\net9.0\StringTest.exe
+D:\Own Programs\C-Sharp\csharp\StringTest\bin\Debug\net9.0\StringTest.deps.json
+D:\Own Programs\C-Sharp\csharp\StringTest\bin\Debug\net9.0\StringTest.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\StringTest\bin\Debug\net9.0\StringTest.dll
+D:\Own Programs\C-Sharp\csharp\StringTest\bin\Debug\net9.0\StringTest.pdb
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.dll
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\refint\StringTest.dll
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.pdb
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\StringTest.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\StringTest\obj\Debug\net9.0\ref\StringTest.dll

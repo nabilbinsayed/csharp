@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\bin\Debug\net9.0\ArrayAsParameter.exe
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\bin\Debug\net9.0\ArrayAsParameter.deps.json
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\bin\Debug\net9.0\ArrayAsParameter.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\bin\Debug\net9.0\ArrayAsParameter.dll
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\bin\Debug\net9.0\ArrayAsParameter.pdb
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.dll
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\refint\ArrayAsParameter.dll
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.pdb
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ArrayAsParameter.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\ArrayAsParameter\obj\Debug\net9.0\ref\ArrayAsParameter.dll

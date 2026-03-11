@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\bin\Debug\net9.0\Class1stJuly.exe
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\bin\Debug\net9.0\Class1stJuly.deps.json
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\bin\Debug\net9.0\Class1stJuly.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\bin\Debug\net9.0\Class1stJuly.dll
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\bin\Debug\net9.0\Class1stJuly.pdb
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.dll
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\refint\Class1stJuly.dll
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.pdb
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\Class1stJuly.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\Class1stJuly\obj\Debug\net9.0\ref\Class1stJuly.dll

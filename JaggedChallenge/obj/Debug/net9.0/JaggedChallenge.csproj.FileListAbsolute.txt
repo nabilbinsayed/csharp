@@ -1,0 +1,15 @@
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\bin\Debug\net9.0\JaggedChallenge.exe
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\bin\Debug\net9.0\JaggedChallenge.deps.json
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\bin\Debug\net9.0\JaggedChallenge.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\bin\Debug\net9.0\JaggedChallenge.dll
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\bin\Debug\net9.0\JaggedChallenge.pdb
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.dll
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\refint\JaggedChallenge.dll
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.pdb
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\JaggedChallenge.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\JaggedChallenge\obj\Debug\net9.0\ref\JaggedChallenge.dll

@@ -13,3 +13,18 @@ C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj
 C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.pdb
 C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.genruntimeconfig.cache
 C:\Users\nabil\OneDrive\Desktop\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\ref\MultiDimArray1.dll
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\bin\Debug\net9.0\MultiDimArray1.exe
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\bin\Debug\net9.0\MultiDimArray1.deps.json
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\bin\Debug\net9.0\MultiDimArray1.runtimeconfig.json
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\bin\Debug\net9.0\MultiDimArray1.dll
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\bin\Debug\net9.0\MultiDimArray1.pdb
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.AssemblyInfoInputs.cache
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.AssemblyInfo.cs
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.csproj.CoreCompileInputs.cache
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.sourcelink.json
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.dll
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\refint\MultiDimArray1.dll
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.pdb
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\MultiDimArray1.genruntimeconfig.cache
+D:\Own Programs\C-Sharp\csharp\MultiDimArray1\MultiDimArray1\obj\Debug\net9.0\ref\MultiDimArray1.dll
